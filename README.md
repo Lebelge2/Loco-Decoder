@@ -11,7 +11,7 @@ Avant assemblage.
 - Programmer l’Arduino, si le téléchargement ne se fait pas, il faut provoquer un Reset juste après la compilation,
   au moment du téléchargement avec un fil volant ou un bouton poussoir. Voir photo n°  et https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/32U4Note.pdf?_gl=1*kfv5ax*_ga*MTA4NDIxNjMwNC4xNjg5NjI1Njg3*_ga_T369JS7J9N*MTY5MTE3NjcyNi40LjAuMTY5MTE3NjcyNi42MC4wLjA.
 
-ATTENTION: Lors du choix de la carte "SparkFun Pro Micro", par défaut le processeur est le 3V3 8MHz. Changé le en 5V 16MHz.
+ATTENTION: Lors du choix de la carte "SparkFun Pro Micro", par défaut le processeur est le 3V3 8MHz. Changer le en 5V 16MHz.
 sans quoi le Bootloader sera corrompu.(A réinstaller)
 
 

@@ -18,7 +18,7 @@ https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/32U4Note.pdf?
 
 
 ATTENTION: Lors du choix de la carte "SparkFun Pro Micro", par défaut le processeur est le 3V3 8MHz. Changer le en 5V 16MHz.
-sans quoi le Bootloader sera corrompu.(A réinstaller)
+sans quoi le Bootloader sera corrompu. (A réinstaller)
 
 
 Assemblage.
